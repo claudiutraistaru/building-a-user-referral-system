@@ -1,6 +1,6 @@
 #### Tutorial: Building a User Referral System
 
-This is a small Meteor app that illustrates the refer-a-friend pattern
+This is a small Meteor app that illustrates the refer-a-friend pattern.
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/building-a-user-referral-system)  
 
